@@ -1,0 +1,84 @@
+,character_name,star_rarity,region,vision,weapon_type,release_date,model,birthday,limited,ascension_specialty,ascension_boss_material,talent_weekly,hp_90_90,atk_90_90,def_90_90,hp_1_20,atk_1_20,def_1_20,ascension_special_stat,special_0,special_6
+0,Albedo,5,Mondstadt,Geo,Sword,2020-12-23,Medium Male,13-Sep,True,Cecilia,Basalt Pillar,Tusk of Monoceros Caeli,13226,251,876,1030,20,68,Geo DMG Bonus,0.00%,28.80%
+1,Alhaitham,5,Sumeru,Dendro,Sword,2023-01-18,Tall Male,11-Feb,True,Sand Grease Pupa,Pseudo-Stamens,Mirror of Mushin,13348,313,781,1039,24,60,Dendro DMG Bonus,0.00%,28.80%
+3,Amber,4,Mondstadt,Pyro,Bow,2020-09-28,Medium Female,10-Aug,False,Small Lamp Grass,Everflame Seed,Dvalin's Sigh,9461,223,601,793,19,50,ATK,0.00%,24.00%
+4,Arataki Itto,5,Inazuma,Geo,Claymore,2021-12-14,Tall Male,01-Jun,True,Onikabuto,Riftborn Regalia,Ashen Heart,12858,227,959,1001,18,75,CRIT Rate,0.00%,19.20%
+5,Arlecchino,5,Snezhnaya,Pyro,Polearm,2024-04-24,Tall Female,22-Aug,True,Rainbow Rose,Fragment of a Golden Melody,Fading Candle,13103,342,765,1020,27,60,CRIT DMG,0.00%,38.40%
+6,Baizhu,5,Liyue,Dendro,Catalyst,2023-05-02,Tall Male,25-Apr,True,Violetgrass,Evergloom Ring,Worldspan Fern,13348,192,499,1039,14,38,HP,0.00%,28.80%
+7,Barbara,4,Mondstadt,Hydro,Catalyst,2020-09-28,Medium Female,05-Jul,False,Philanemo Mushroom,Cleansing Heart,Ring of Boreas,9787,159,669,821,13,56,HP,0.00%,24.00%
+8,Beidou,4,Liyue,Electro,Claymore,2020-09-28,Tall Female,14-Feb,False,Noctilucous Jade,Lightning Prism,Dvalin's Sigh,13050,225,648,1094,19,54,Electro DMG Bonus,0.00%,24.00%
+9,Bennett,4,Mondstadt,Pyro,Sword,2020-09-28,Medium Male,01-Feb,False,Windwheel Aster,Everflame Seed,Dvalin's Plume,12397,191,771,1039,16,65,Energy Recharge,0.00%,26.70%
+10,Candace,4,Sumeru,Hydro,Polearm,2022-09-28,Tall Female,03-May,False,Redcrest,Light Guiding Tetrahedron,Tears of the Calamitous God,10874,212,682,911,17,57,HP,0.00%,24.00%
+11,Charlotte,4,Fontaine,Cryo,Catalyst,2023-11-08,Medium Female,10-Apr,False,Beryl Conch,"""Tourbillon Device""",Lightless Silk String,10766,173,546,902,14,45,ATK,0.00%,24.00%
+12,Chevreuse,4,Fontaine,Pyro,Polearm,2024-01-09,Medium Female,10-Jan,False,Lumidouce Bell,Fontemer Unihorn,Lightless Eye of the Maelstrom,11962,193,605,1003,16,51,HP,0.00%,24.00%
+13,Chiori,5,Inazuma,Geo,Sword,2024-03-13,Medium Female,17-Aug,True,Dendrobium,Artificed Spare Clockwork Component — Coppelia,Lightless Silk String,11438,323,953,890,25,74,CRIT Rate,0.00%,19.20%
+14,Chongyun,4,Liyue,Cryo,Claymore,2020-09-28,Medium Male,07-Sep,False,Cor Lapis,Hoarfrost Core,Dvalin's Sigh,10984,223,648,1003,19,54,ATK,0.00%,24.00%
+15,Clorinde,5,Fontaine,Electro,Sword,2024-06-05,Tall Female,20-Sep,True,Lumitoile,Fontemer Unihorn,Everamber,12956,337,784,1009,26,61,CRIT Rate,0.00%,19.20%
+16,Collei,4,Sumeru,Dendro,Bow,2022-08-24,Medium Female,08-May,False,Rukkhashava Mushrooms,Majestic Hooked Beak,Tears of the Calamitous God,9787,199,600,820,16,50,ATK,0.00%,24.00%
+17,Cyno,5,Sumeru,Electro,Polearm,2022-09-28,Medium Male,23-Jun,True,Scarab,Thunderclap Fruitcore,Mudra of the Malefic General,12490,318,859,972,21,66,CRIT DMG,0.00%,38.40%
+18,Dehya,5,Sumeru,Pyro,Claymore,2023-03-01,Tall Female,07-Apr,False,Sand Grease Pupa,Light Guiding Tetrahedron,Puppet Strings,15674,265,627,1220,20,48,HP,0.00%,28.80%
+19,Diluc,5,Mondstadt,Pyro,Claymore,2020-09-28,Tall Male,30-Apr,False,Small Lamp Grass,Everflame Seed,Dvalin's Plume,12981,335,784,1011,26,61,CRIT Rate,0.00%,19.20%
+20,Diona,4,Mondstadt,Cryo,Bow,2020-11-11,Short Female,18-Jan,False,Calla Lily,Hoarfrost Core,Shard of a Foul Legacy,9570,212,601,802,18,50,Cryo DMG Bonus,0.00%,24.00%
+21,Dori,4,Sumeru,Electro,Claymore,2022-09-09,Short Female,21-Dec,False,Kalpalata Lotus,Thunderclap Fruitcore,Bloodjade Branch,12397,223,723,1039,18,60,HP,0.00%,24.00%
+22,Emilie,5,Fontaine,Dendro,Polearm,2024-08-06,Medium Female,22-Sep,True,Lakelight Lily,Fragment of a Golden Melody,Silken Feather,13568,335,730,1056,26,57,CRIT DMG,0.00%,38.40%
+23,Eula,5,Mondstadt,Cryo,Claymore,2021-05-18,Tall Female,25-Oct,True,Dandelion Seed,Crystalline Bloom,Dragon Lord's Crown,13226,342,751,1030,27,58,CRIT DMG,0.00%,38.40%
+24,Faruzan,4,Sumeru,Anemo,Bow,2022-12-07,Medium Female,20-Aug,False,Henna Berry,Light Guiding Tetrahedron,Puppet Strings,9569,196,627,802,16,52,ATK,0.00%,24.00%
+25,Fischl,4,Mondstadt,Electro,Bow,2020-09-28,Medium Female,27-May,False,Small Lamp Grass,Lightning Prism,Spirit Locket of Boreas,9189,244,594,770,20,50,ATK,0.00%,24.00%
+26,Freminet,4,Fontaine,Cryo,Claymore,2023-09-05,Medium Male,24-Sep,False,Romaritime Flower,Artificed Spare Clockwork Component - Coppelius,Worldspan Fern,12071,254,708,1012,21,59,ATK,0.00%,24.00%
+27,Furina,5,Fontaine,Hydro,Sword,2023-11-08,Medium Female,13-Oct,True,Lakelight Lily,Water That Failed To Transcend,Lightless Mass,15307,243,695,1191,18,54,CRIT Rate,0.00%,19.20%
+28,Gaming,4,Liyue,Pyro,Claymore,2024-01-31,Medium Male,22-Dec,False,Starconch,Emperor's Resolution,Lightless Mass,11419,302,703,957,25,59,ATK,0.00%,24.00%
+29,Ganyu,5,Liyue,Cryo,Bow,2021-01-12,Medium Female,02-Dec,True,Qingxin,Hoarfrost Core,Shadow of the Warrior,9797,335,630,763,26,49,CRIT DMG,0.00%,38.40%
+30,Gorou,4,Inazuma,Geo,Bow,2021-12-14,Medium Male,18-May,False,Sango Pearl,Perpetual Heart,Molten Moment,9570,183,648,802,15,54,Geo DMG Bonus,0.00%,24.00%
+31,Hu Tao,5,Liyue,Pyro,Polearm,2021-03-02,Medium Female,15-Jul,True,Silk Flower,Juvenile Jade,Shard of a Foul Legacy,15552,106,876,1211,8,68,CRIT DMG,0.00%,38.40%
+32,Jean,5,Mondstadt,Anemo,Sword,2020-09-28,Tall Female,14-Mar,False,Dandelion Seed,Hurricane Seed,Dvalin's Plume,14695,239,769,1144,19,60,Healing Bonus,0.00%,22.20%
+33,Kaedehara Kazuha,5,Inazuma,Anemo,Sword,2021-06-29,Medium Male,29-Oct,True,Sea Ganoderma,Marionette Core,Gilded Scale,13348,297,807,1039,23,63,Elemental Mastery,0,115.2
+34,Kaeya,4,Mondstadt,Cryo,Sword,2020-09-28,Tall Male,30-Nov,False,Calla Lily,Hoarfrost Core,Spirit Locket of Boreas,11636,223,792,976,19,66,Energy Recharge,0.00%,26.70%
+35,Kamisato Ayaka,5,Inazuma,Cryo,Sword,2021-07-21,Medium Female,28-Sep,True,Sakura Bloom,Perpetual Heart,Bloodjade Branch,12858,342,784,1001,27,61,CRIT DMG,0.00%,38.40%
+36,Kamisato Ayato,5,Inazuma,Hydro,Sword,2022-03-30,Tall Male,26-Mar,True,Sakura Bloom,Dew of Repudation,Mudra of the Malefic General,13715,299,769,1068,24,60,CRIT DMG,0.00%,38.40%
+37,Kaveh,4,Sumeru,Dendro,Claymore,2023-05-02,Tall Male,09-Jul,False,Mourning Flower,Quelled Creeper,Primordial Greenbloom,11962,233,750,1002,19,62,Elemental Mastery,0,96
+38,Keqing,5,Liyue,Electro,Sword,2020-09-28,Medium Female,20-Nov,False,Cor Lapis,Lightning Prism,Ring of Boreas,13103,323,799,1020,25,62,CRIT DMG,0.00%,38.40%
+39,Kirara,4,Inazuma,Dendro,Sword,2023-05-24,Medium Female,22-Jan,False,Amakumo Fruit,Evergloom Ring,Everamber,12179,223,546,1021,18,45,HP,0.00%,24.00%
+40,Klee,5,Mondstadt,Pyro,Catalyst,2020-10-20,Short Female,27-Jul,True,Philanemo Mushroom,Everflame Seed,Ring of Boreas,10287,311,615,801,24,48,Pyro DMG Bonus,0.00%,28.80%
+41,Kujou Sara,4,Inazuma,Electro,Bow,2021-09-01,Tall Female,14-Jul,False,Dendrobium,Storm Beads,Ashen Heart,9570,195,628,802,16,53,ATK,0.00%,24.00%
+42,Kuki Shinobu,4,Inazuma,Electro,Sword,2022-06-21,Medium Female,27-Jul,False,Naku Weed,Runic Fang,Tears of the Calamitous God,12288,212,750,1030,17,62,HP,0.00%,24.00%
+43,Layla,4,Sumeru,Cryo,Sword,2022-11-18,Medium Female,19-Dec,False,Nilotpala Lotus,Perpetual Caliber,Mirror of Mushin,11092,216,655,930,18,54,HP,0.00%,24.00%
+44,Lisa,4,Mondstadt,Electro,Catalyst,2020-09-28,Tall Female,09-Jun,False,Valberry,Lightning Prism,Dvalin's Claw,9570,232,573,802,19,48,Elemental Mastery,0,96
+45,Lynette,4,Fontaine,Anemo,Sword,2023-08-16,Medium Female,02-Feb,False,Lumidouce Bell,Artificed Spare Clockwork Component - Coppelia,Everamber,12397,231,711,1039,19,59,Anemo DMG Bonus,0.00%,24.00%
+46,Lyney,5,Fontaine,Pyro,Bow,2023-08-16,Medium Male,02-Feb,True,Rainbow Rose,Emperor's Resolution,Primordial Greenbloom,11021,318,537,857,24,41,CRIT Rate,0.00%,19.20%
+47,Mika,4,Mondstadt,Cryo,Polearm,2023-03-21,Medium Male,11-Aug,False,Wolfhook,Pseudo-Stamens,Mirror of Mushin,12506,223,713,1048,18,59,HP,0.00%,24.00%
+48,Mona,5,Mondstadt,Hydro,Catalyst,2020-09-28,Medium Female,31-Aug,False,Philanemo Mushroom,Cleansing Heart,Ring of Boreas,10409,287,653,810,22,51,Energy Recharge,0.00%,32.00%
+49,Nahida,5,Sumeru,Dendro,Catalyst,2022-11-02,Short Female,27-Oct,True,Kalpalata Lotus,Quelled Creeper,Puppet Strings,10360,298,630,806,23,49,Elemental Mastery,0,115.2
+50,Navia,5,Fontaine,Geo,Claymore,2023-12-20,Tall Female,16-Aug,True,Spring of the First Dewdrop,Artificed Spare Clockwork Component — Coppelius,Lightless Silk String,12650,352,793,985,27,62,CRIT DMG,0.00%,38.40%
+51,Neuvillette,5,Fontaine,Hydro,Catalyst,2023-09-27,Tall Male,18-Dec,True,Lumitoile,Fontemer Unihorn,Everamber,14695,208,576,1143,16,44,CRIT DMG,0.00%,38.40%
+52,Nilou,5,Sumeru,Hydro,Sword,2022-10-14,Medium Female,03-Dec,True,Padisarah,Perpetual Caliber,Tears of the Calamitous God,15184,229,728,1182,17,56,HP,0.00%,28.80%
+53,Ningguang,4,Liyue,Geo,Catalyst,2020-09-28,Tall Female,26-Aug,False,Glaze Lily,Basalt Pillar,Spirit Locket of Boreas,9787,212,573,821,18,48,Geo DMG Bonus,0.00%,24.00%
+54,Noelle,4,Mondstadt,Geo,Claymore,2020-09-28,Medium Female,21-Mar,False,Valberry,Basalt Pillar,Dvalin's Claw,12071,191,799,1012,16,67,DEF,0.00%,30.00%
+55,Qiqi,5,Liyue,Cryo,Sword,2020-09-28,Short Female,03-Mar,False,Violetgrass,Hoarfrost Core,Tail of Boreas,12368,287,922,963,22,72,Healing Bonus,0.00%,22.20%
+56,Raiden Shogun,5,Inazuma,Electro,Polearm,2021-09-01,Tall Female,26-Jun,True,Amakumo Fruit,Storm Beads,Molten Moment,12907,337,789,1005,26,61,Energy Recharge,0.00%,32.00%
+57,Razor,4,Mondstadt,Electro,Claymore,2020-09-28,Medium Male,09-Sep,False,Wolfhook,Lightning Prism,Dvalin's Claw,11962,234,751,1003,20,63,Physical DMG Bonus,0.00%,30.00%
+58,Rosaria,4,Mondstadt,Cryo,Polearm,2021-04-06,Tall Female,24-Jan,False,Valberry,Hoarfrost Core,Shadow of the Warrior,12289,240,710,1030,20,60,ATK,0.00%,24.00%
+59,Sangonomiya Kokomi,5,Inazuma,Hydro,Catalyst,2021-09-21,Medium Female,22-Feb,True,Sango Pearl,Dew of Repudation,Hellfire Butterfly,13471,234,657,1049,18,51,Hydro DMG Bonus,0.00%,28.80%
+60,Sayu,4,Inazuma,Anemo,Claymore,2021-08-10,Short Female,19-Oct,False,Crystal Marrow,Marionette Core,Gilded Scale,11854,244,745,994,20,62,Elemental Mastery,0,96
+61,Sethos,4,Sumeru,Electro,Bow,2024-06-05,Medium Male,31-May,False,Trishiraite,Cloudseam Scale,Daka's Bell,9787,227,560,821,19,47,Elemental Mastery,0.00%,96
+62,Shenhe,5,Liyue,Cryo,Polearm,2022-01-05,Tall Female,10-Mar,True,Qingxin,Dragonheir's False Fin,Hellfire Butterfly,12993,304,830,1011,24,65,ATK,0.00%,28.80%
+63,Shikanoin Heizou,4,Inazuma,Anemo,Catalyst,2022-07-13,Medium Male,24-Jul,False,Onikabuto,Runic Fang,The Meaning of Aeons,10657,225,683,893,18,57,Anemo DMG Bonus,0.00%,24.00%
+64,Sigewinne,5,Fontaine,Hydro,Bow,2024-06-25,Short Female,30-Mar,True,Romaritime Flower,Water That Failed To Transcend,Lightless Eye of the Maelstrom,13348,193,500,1039,15,39,HP,0.00%,28.80%
+65,Sucrose,4,Mondstadt,Anemo,Catalyst,2020-09-28,Medium Female,26-Sep,False,Windwheel Aster,Hurricane Seed,Spirit Locket of Boreas,9243,170,703,775,14,59,Anemo DMG Bonus,0.00%,24.00%
+66,Tartaglia,5,Snezhnaya,Hydro,Bow,2020-11-11,Tall Male,20-Jul,True,Starconch,Cleansing Heart,Shard of a Foul Legacy,13103,301,815,1020,23,63,Hydro DMG Bonus,0.00%,28.80%
+67,Thoma,4,Inazuma,Pyro,Polearm,2021-11-02,Tall Male,09-Jan,False,Fluorescent Fungus,Smoldering Pearl,Hellfire Butterfly,10331,202,751,866,17,63,ATK,0.00%,24.00%
+68,Tighnari,5,Sumeru,Dendro,Bow,2022-08-24,Medium Male,29-Dec,False,Nilotpala Lotus,Majestic Hooked Beak,The Meaning of Aeons,10849,267,630,844,20,49,Dendro DMG Bonus,0.00%,28.80%
+79,Venti,5,Mondstadt,Anemo,Bow,2020-09-28,Medium Male,16-Jun,True,Cecilia,Hurricane Seed,Tail of Boreas,10531,263,669,820,20,52,Energy Recharge,0.00%,32.00%
+80,Wanderer,5,Sumeru,Anemo,Catalyst,2022-12-07,Medium Male,03-Jan,True,Rukkhashava Mushrooms,Perpetual Caliber,Daka's Bell,10164,327,607,791,25,47,CRIT Rate,0.00%,19.20%
+81,Wriothesley,5,Fontaine,Cryo,Catalyst,2023-10-17,Tall Male,23-Nov,True,Subdetection Unit,"""Tourbillon Device""",Primordial Greenbloom,13592,310,763,1058,24,59,CRIT DMG,0.00%,38.40%
+82,Xiangling,4,Liyue,Pyro,Polearm,2020-09-28,Medium Female,02-Nov,False,Jueyun Chili,Everflame Seed,Dvalin's Claw,10875,225,669,912,19,56,Elemental Mastery,0,96
+83,Xianyun,5,Liyue,Anemo,Catalyst,2024-01-31,Tall Female,11-Apr,True,Clearwater Jade,Cloudseam Scale,Lightless Eye of the Maelstrom,10409,335,573,810,26,45,ATK,0.00%,28.80%
+84,Xiao,5,Liyue,Anemo,Polearm,2021-02-03,Medium Male,17-Apr,True,Qingxin,Juvenile Jade,Shadow of the Warrior,12736,349,799,991,27,62,CRIT Rate,0.00%,19.20%
+85,Xingqiu,4,Liyue,Hydro,Sword,2020-09-28,Medium Male,09-Oct,False,Silk Flower,Cleansing Heart,Tail of Boreas,10223,202,758,857,17,64,ATK,0.00%,24.00%
+86,Xinyan,4,Liyue,Pyro,Claymore,2020-12-01,Medium Female,16-Oct,False,Violetgrass,Everflame Seed,Tusk of Monoceros Caeli,11201,249,799,939,21,67,ATK,0.00%,24.00%
+87,Yae Miko,5,Inazuma,Electro,Catalyst,2022-02-16,Tall Female,27-Jun,True,Sea Ganoderma,Dragonheir's False Fin,The Meaning of Aeons,10372,340,569,807,26,44,CRIT Rate,0.00%,19.20%
+88,Yanfei,4,Liyue,Pyro,Catalyst,2021-04-28,Medium Female,28-Jul,False,Noctilucous Jade,Juvenile Jade,Bloodjade Branch,9352,240,587,784,20,49,Pyro DMG Bonus,0.00%,24.00%
+89,Yaoyao,4,Liyue,Dendro,Polearm,2023-01-18,Short Female,06-Mar,False,Jueyun Chili,Quelled Creeper,Daka's Bell,12288,212,750,1030,17,62,HP,0.00%,24.00%
+90,Yelan,5,Liyue,Hydro,Bow,2022-05-31,Tall Female,20-Apr,True,Starconch,Runic Fang,Gilded Scale,14450,244,548,1125,19,43,CRIT Rate,0.00%,19.20%
+91,Yoimiya,5,Inazuma,Pyro,Bow,2021-08-10,Medium Female,21-Jun,True,Naku Weed,Smoldering Pearl,Dragon Lord's Crown,10164,323,615,791,25,48,CRIT Rate,0.00%,19.20%
+92,Yun Jin,4,Liyue,Geo,Polearm,2022-01-05,Medium Female,21-May,False,Glaze Lily,Riftborn Regalia,Ashen Heart,10657,191,734,894,16,62,Energy Recharge,0.00%,26.70%
+93,Zhongli,5,Liyue,Geo,Polearm,2020-12-01,Tall Male,31-Dec,True,Cor Lapis,Basalt Pillar,Tusk of Monoceros Caeli,14695,251,738,1144,20,57,Geo DMG Bonus,0.00%,28.80%
